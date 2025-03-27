@@ -15,5 +15,4 @@ This document lists the validated instruments and structured questionnaires incl
 | PROMIS Cognitive Function 8a       | NIH PROMIS Perceived Cognitive Function                      | Mental Health                    |
 | DSQ / DSQ-2 / DSQ-PEM              | DePaul Symptom Questionnaire Series                          | Symptoms, PEM                    |
 | PD                                 | PainDetect                                                   | Pain                             |
-| CAGE-AID                           | Substance Abuse Screening Tool                               | Permissions (optional inclusion) |
 | Custom Items                       | Demographics, COVID-19, Participation, Permissions, etc.     | Multiple                         |
