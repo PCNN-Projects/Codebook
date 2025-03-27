@@ -6,7 +6,7 @@ This repository contains the harmonized codebook developed for the Post-COVID Ne
 
 ## Repository Structure
 
-- `codebook.csv` – Main file containing all variables, themes, labels, ontology mappings, and value codings.
+- `codebook.xlsx` – Main file containing all variables, themes, labels, ontology mappings, and value codings.
 - `themes_and_subdomains.md` – A categorized list of all Themes and Subdomains used in the codebook.
 - `instruments_overview.md` – Summary of all validated instruments and questionnaires represented in the codebook.
 
@@ -21,7 +21,7 @@ This codebook was designed to:
 
 ---
 
-##  Columns in `codebook.csv`
+##  Columns in `codebook.xlsx`
 
 | Column | Description |
 |--------|-------------|
@@ -56,7 +56,7 @@ For questions, feedback, or collaboration opportunities, please reach out to the
 **Dr. Hajar Hasannejadasl**  
 Clinical Data Scientist  
 Maastricht University Medical Center (MUMC+)  
-📧 hajar.hasannejadasl@mumc.nl
+📧 hajar.hasannejadasl@mumc.nl, hajar.hasannejad@gmail.com
 
 **Shuxin Zhang**  
 PhD Candidate & FAIR Data Steward  
